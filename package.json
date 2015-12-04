@@ -1,6 +1,6 @@
 {
   "name": "nnupnp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/nat-upnp",
   "author": "c-geek <cem.moreau@gmail.com>",
   "homepage": "https://github.com/c-geek/node-nat-upnp",
